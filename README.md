@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://firebasestorage.googleapis.com/v0/b/creative-coding-92146.appspot.com/o/img%2Florenze_attractor.png?alt=media&token=71eff338-2958-434c-aa3c-bafcadc5fcaf" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Lorenz Attractor</h3>
